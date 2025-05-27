@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.env
+.vscode/
+.DS_Store
+*.mp4
+runs/
