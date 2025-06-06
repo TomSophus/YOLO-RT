@@ -118,7 +118,7 @@ model = ModelHandler(use_japanese_labels=True)
 
 ## 📝 ライセンス
 
-このプロジェクトは **MITライセンス** に基づいて公開されています。
+このプロジェクトで使用するYOLOv8nは **AGPL-3.0ライセンス** の下で提供されています。
 
 ---
 
